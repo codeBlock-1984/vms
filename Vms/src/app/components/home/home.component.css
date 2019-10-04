@@ -1,0 +1,17 @@
+.main-container {
+  height: 100vh;
+}
+
+.main-row {
+  height: 100%;
+}
+
+.main-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.main-input {
+  margin: 10px;
+}

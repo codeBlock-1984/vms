@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "gmygpbvi",
+    "password": "Mm9bgpOAWzdcWQSRX26KgQTrj0gnB7Co",
+    "database": "gmygpbvi",
+    "host": "salt.db.elephantsql.com",
+    "dialect": "postgresql",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  }
+}
